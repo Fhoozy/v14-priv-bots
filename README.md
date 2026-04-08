@@ -110,3 +110,31 @@ Discord'un priv sunucuları için özel olarak geliştirilmiş, kişiselleştiri
 | Komut | <img src="https://github.com/Fhoozy/v14-priv-bots/blob/main/Images/L%20command.png"> |
 
 </details>
+
+---
+
+<details>
+<summary><b>📋 Guard Log Mesajları</b></summary>
+
+<br>
+
+| Komut | Görsel |
+|-------|--------|
+| Rol | <img src="https://github.com/Fhoozy/v14-priv-bots/blob/main/Images/G%20role.png"> |
+| Kanal | <img src="https://github.com/Fhoozy/v14-priv-bots/blob/main/Images/G%20channel.png"> |
+| Backup | <img src="https://github.com/Fhoozy/v14-priv-bots/blob/main/Images/G%20backup.png"> |
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ Özel Oda Sistemi</b></summary>
+
+<br>
+
+| Komut | Görsel |
+|-------|--------|
+| Özel Oda Yönetim Paneli | <img src="https://github.com/Fhoozy/v14-priv-bots/blob/main/Images/V%20voice%20panel.png"> |
+
+</details>
