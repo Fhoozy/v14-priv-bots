@@ -17,7 +17,7 @@ Discord'un priv sunucuları için özel olarak geliştirilmiş, kişiselleştiri
 
 ## 📷 Komutlar ve Görüntüler
 
-<details open>
+<details>
 <summary><b>📜 Kurucu Komutları</b></summary>
 
 <br>
