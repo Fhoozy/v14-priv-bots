@@ -1,10 +1,10 @@
-## 📌 Proje Hakkında Bilgi
+## 📌 v14 Priv Bots
 
 Discord'un priv sunucuları için özel olarak geliştirilmiş, kişiselleştirilebilir sistemler. Botlar hakkında daha fazla detaylı bilgi almak istiyorsanız Discord üzerinden benimle ([`bcan`](https://discord.com/users/1181590782260555798)) iletişime geçebilirsiniz.  
 
 ---
 
-## ✨ Özellikler
+## ✨ Özellikler / Ayrıcalıklar
 
 - ⚡ Yüksek Performans
 - 🛡️ Yeni Nesil Gelişmiş Özel Oda Sistemi
@@ -15,7 +15,7 @@ Discord'un priv sunucuları için özel olarak geliştirilmiş, kişiselleştiri
 
 ---
 
-## 📷 Komutlar ve Görüntüler
+## 📷 Komutlar ve Görüntü Örnekleri
 
 <details>
 <summary><b>📜 Kurucu Komutları</b></summary>
@@ -138,3 +138,9 @@ Discord'un priv sunucuları için özel olarak geliştirilmiş, kişiselleştiri
 | Özel Oda Yönetim Paneli | <img src="https://github.com/Fhoozy/v14-priv-bots/blob/main/Images/V%20voice%20panel.png"> |
 
 </details>
+
+--- 
+
+## ⚖️ LICENCE
+
+Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla bilgi almak için `[MIT License](https://github.com/Fhoozy/v14-priv-bots/tree/main?tab=MIT-1-ov-file#)` sayfasına göz atabilirsiniz.
