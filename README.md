@@ -143,4 +143,4 @@ Discord'un priv sunucuları için özel olarak geliştirilmiş, kişiselleştiri
 
 ## ⚖️ LICENCE
 
-Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla bilgi almak için `[MIT License](https://github.com/Fhoozy/v14-priv-bots/tree/main?tab=MIT-1-ov-file#)` sayfasına göz atabilirsiniz.
+Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla bilgi almak için [MIT License](https://github.com/Fhoozy/v14-priv-bots/tree/main?tab=MIT-1-ov-file#) sayfasına göz atabilirsiniz.
